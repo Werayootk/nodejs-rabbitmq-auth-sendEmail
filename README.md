@@ -1,1 +1,0 @@
-# nodejs-rabbitmq-auth-sendEmail
